@@ -1,4 +1,4 @@
-
+# Serveur DNS esclave faisant autorité
 
 # Contexte : CUB
 
@@ -174,6 +174,8 @@ zone "anvers.cub.sioplc.fr" {
 ## Test des DNS faisant autorité esclave et maître {#test-des-dns-faisant-autorité-esclave-et-maître}
 
 **Vérifier le serial SOA**
+
+![image commande SOA](../../images/img Dns esclave faisant autorité/img_1.png)
 
 nous retrouvons le numéro sérial du DNS maître 
 
