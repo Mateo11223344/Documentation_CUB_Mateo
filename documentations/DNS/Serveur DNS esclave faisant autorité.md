@@ -2,7 +2,7 @@
 
 # Contexte : CUB
 
-![image Cub](./images/images cub.png)
+![image Cub](./images/images_cub.png)
 
 
 ## Sommaire 
