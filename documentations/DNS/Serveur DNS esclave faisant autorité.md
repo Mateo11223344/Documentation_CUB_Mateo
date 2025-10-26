@@ -13,19 +13,19 @@
 
 **Mettez à jour votre serveur**
 
-*sudo apt update && sudo apt upgrade*
+- *sudo apt update && sudo apt upgrade*
 
 **Sur votre serveur Debian 12, installez le service de journalisation rsyslog à la place de journalctl. Cela vous permettra de disposer de fichiers de log clairs au format texte situés dans /var/log*.***
 
-*sudo apt install rsyslog*
+- *sudo apt install rsyslog*
 
 **Installez le service Bind 9 et les outils diagnostics DNS**
 
-*sudo apt install bind9 dnsutils*
+- *sudo apt install bind9 dnsutils*
 
 **Définir les paramètre réseau du serveur**
 
-*sudoedit /etc/network/interfaces*
+- *sudoedit /etc/network/interfaces*
 
 source /etc/network/interfaces.d/\*
 
