@@ -2,6 +2,8 @@
 
 # Contexte : CUB
 
+![image Cub](./images/images cub.png)
+
 
 ## Sommaire 
 
