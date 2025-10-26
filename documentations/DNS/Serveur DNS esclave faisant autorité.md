@@ -2,11 +2,10 @@
 
 # Contexte : CUB
 
-# 
 
 # Sommaire {#sommaire}
 
-[**Sommaire	2**](#sommaire)
+[**Sommaire	2**]
 
 [Procédure installation DNS esclave	3](#procédure-installation-dns-esclave)
 
