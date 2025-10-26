@@ -175,11 +175,17 @@ zone "anvers.cub.sioplc.fr" {
 
 **Vérifier le serial SOA**
 
-![image commande SOA](../../images/img Dns esclave faisant autorité/img_1.png)
+![image commande SOA](../../images/img_DNS_esclave/img_1.png)
 
 nous retrouvons le numéro sérial du DNS maître 
 
+![image commande SOA résultat](../../images/img_DNS_esclave/img_2.png)
+
 **Test de la résolution DNS**
 
+![image commande résolution DNS](../../images/img_DNS_esclave/img_3.png)
+
 Résultat de la commande 
+
+![image résultat commande de la résolution DNS](../../images/img_DNS_esclave/img_4.png)
 
