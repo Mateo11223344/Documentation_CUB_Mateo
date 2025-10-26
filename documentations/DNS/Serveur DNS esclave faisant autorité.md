@@ -5,13 +5,11 @@
 
 ## Sommaire 
 
-[**Sommaire	2**]
+[Procédure installation DNS esclave]
 
-[Procédure installation DNS esclave	3](#procédure-installation-dns-esclave)
+[Test des DNS faisant autorité esclave et maître]
 
-[Test des DNS faisant autorité esclave et maître	8](#test-des-dns-faisant-autorité-esclave-et-maître)
-
-## Procédure installation DNS esclave {#procédure-installation-dns-esclave}
+## Procédure installation DNS esclave
 
 **Mettez à jour votre serveur**
 
